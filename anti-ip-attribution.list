@@ -59,6 +59,7 @@ DOMAIN-KEYWORD,normal-c-lq,IP
 DOMAIN-KEYWORD,normal-lq,IP
 DOMAIN-KEYWORD,search-quic-lq,IP
 DOMAIN-KEYWORD,search-lq,IP
+DOMAIN-SUFFIX,amemv.com,IP
 
 # ======= 头条 ======= #
 DOMAIN-SUFFIX,toutiaoapi.com,IP
