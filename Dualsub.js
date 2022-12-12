@@ -60,8 +60,8 @@ let default_settings = {
     Disney: {
         type: "Official", // Official, Google, DeepL, External, Disable
         lang: "English [CC]",
-        sl: "",
-        tl: "zh-CN",
+        sl: "auto",
+        tl: "English [CC]",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -77,7 +77,7 @@ let default_settings = {
         type: "Official", // Official, Google, DeepL, External, Disable
         lang: "English CC",
         sl: "auto",
-        tl: "en",
+        tl: "en-US SDH",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -92,8 +92,8 @@ let default_settings = {
     Hulu: {
         type: "Google", // Google, DeepL, External, Disable
         lang: "English",
-        sl: "",
-        tl: "zh-CN",
+        sl: "auto",
+        tl: "en",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -108,8 +108,8 @@ let default_settings = {
     Netflix: {
         type: "Google", // Google, DeepL, External, Disable
         lang: "English",
-        sl: "",
-        tl: "zh-CN",
+        sl: "auto",
+        tl: "en",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -141,7 +141,7 @@ let default_settings = {
         type: "Official", // Official, Google, DeepL, External, Disable
         lang: "English [CC]",
         sl: "auto",
-        tl: "zh-CN",
+        tl: "English [CC]",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -156,9 +156,9 @@ let default_settings = {
     General: {
         service: "null",
         type: "Google", // Google, DeepL, External, Disable
-        lang: "English"
-        sl: "",
-        tl: "zh-CN",
+        lang: "English",
+        sl: "auto",
+        tl: "en",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -172,9 +172,9 @@ let default_settings = {
     },
     YouTube: {
         type: "Enable", // Enable, Disable
-        lang: "",
+        lang: "English",
         sl: "auto",
-        tl: "zh-CN",
+        tl: "en",
         line: "sl"
     }
 }
