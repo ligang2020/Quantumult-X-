@@ -60,8 +60,8 @@ let default_settings = {
     Disney: {
         type: "Official", // Official, Google, DeepL, External, Disable
         lang: "English [CC]",
-        sl: "auto",
-        tl: "en",
+        sl: "",
+        tl: "zh-CN",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -92,8 +92,8 @@ let default_settings = {
     Hulu: {
         type: "Google", // Google, DeepL, External, Disable
         lang: "English",
-        sl: "auto",
-        tl: "en",
+        sl: "",
+        tl: "zh-CN",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -108,8 +108,8 @@ let default_settings = {
     Netflix: {
         type: "Google", // Google, DeepL, External, Disable
         lang: "English",
-        sl: "auto",
-        tl: "en",
+        sl: "",
+        tl: "zh-CN",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -141,7 +141,7 @@ let default_settings = {
         type: "Official", // Official, Google, DeepL, External, Disable
         lang: "English [CC]",
         sl: "auto",
-        tl: "en",
+        tl: "zh-CN",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -156,9 +156,9 @@ let default_settings = {
     General: {
         service: "null",
         type: "Google", // Google, DeepL, External, Disable
-        lang: "",
-        sl: "auto",
-        tl: "en",
+        lang: "English"
+        sl: "",
+        tl: "zh-CN",
         line: "s", // f, s
         dkey: "null", // DeepL API key
         s_subtitles_url: "null",
@@ -174,7 +174,7 @@ let default_settings = {
         type: "Enable", // Enable, Disable
         lang: "",
         sl: "auto",
-        tl: "en",
+        tl: "zh-CN",
         line: "sl"
     }
 }
