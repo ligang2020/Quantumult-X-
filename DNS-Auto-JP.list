@@ -1,0 +1,22 @@
+# DNS Leak from Shadowrocket Auto-JP
+HOST-SUFFIX,dnsleaktest.com,Auto-JP
+HOST-SUFFIX,dnsleak.com,Auto-JP
+HOST-SUFFIX,expressvpn.com,Auto-JP
+HOST-SUFFIX,nordvpn.com,proxy
+HOST-SUFFIX,surfshark.com,Auto-JP
+HOST-SUFFIX,ipleak.net,Auto-JP
+HOST-SUFFIX,perfect-privacy.com,Auto-JP
+HOST-SUFFIX,browserleaks.com,Auto-JP
+HOST-SUFFIX,browserleaks.org,Auto-JP
+HOST-SUFFIX,vpnunlimited.com,Auto-JP
+HOST-SUFFIX,whoer.net,Auto-JP
+HOST-SUFFIX,whrq.net,Auto-JP
+
+# Astrill
+HOST-SUFFIX,astrill.com,Auto-JP
+HOST-SUFFIX,astrill.org,Auto-JP
+HOST-SUFFIX,dnsleak.asn247.net,Auto-JP
+
+# Surfshark
+HOST-SUFFIX,surfshark.com,Auto-JP
+HOST-SUFFIX,surfsharkdns.com,Auto-JP
