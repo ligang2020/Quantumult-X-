@@ -65,6 +65,10 @@ DOMAIN,api.taptapdada.com,IP
 # ======= 网易大神 ======= #
 DOMAIN,god.gameyw.netease.com,IP
 
+
+# ======= 网易新闻IP归属地 ======= #
+DOMAIN-SUFFIX,163.com,IP
+
 # ======= 虎牙 ======= #
 DOMAIN-SUFFIX,huya.com,IP
 
